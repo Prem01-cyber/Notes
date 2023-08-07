@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Event Logs/Effective Filtering of logs.md",
+                "file": "Windows/Windows Fundamentals/Volume shadow copy service.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Event Logs/Effective Filtering of logs.md",
+                "file": "Windows/Windows Fundamentals/Volume shadow copy service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Event Logs/Effective Filtering of logs.md",
+                "file": "Windows/Windows Fundamentals/Volume shadow copy service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Event Logs/Effective Filtering of logs.md"
+                "file": "Windows/Windows Fundamentals/Volume shadow copy service.md"
               }
             }
           },
@@ -138,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,14 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "861073cc6458fe84",
+  "active": "232a63cce9fe0fef",
   "lastOpenFiles": [
     "Windows/Windows Fundamentals/Volume shadow copy service.md",
-    "Windows/Event Logs/Elements.md",
     "Windows/Event Logs/Effective Filtering of logs.md",
+    "Screenshots/e2ceaa065e80a6763b7a861dbd4142fb.gif",
     "Screenshots/Pasted image 20230807100739.png",
     "Screenshots/Pasted image 20230807085956.png",
     "Screenshots/Pasted image 20230807085620.png",
+    "Windows/Event Logs/Elements.md",
     "Pasted image 20230807100739.png",
     "Pasted image 20230807085956.png",
     "Pasted image 20230807085620.png",
@@ -176,7 +178,6 @@
     "Windows/Windows Fundamentals/Command Prompt.md",
     "Windows/Windows Fundamentals/Resource Monitor.md",
     "Windows/Windows Fundamentals/System Information.md",
-    "Screenshots/e2ceaa065e80a6763b7a861dbd4142fb.gif",
     "Screenshots/Pasted image 20230807074207.png",
     "Screenshots/Pasted image 20230807072156.png",
     "Pasted image 20230807074207.png",
