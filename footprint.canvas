@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"type":"text","text":"DNS Server 2\nSecondary - Slave","id":"2bd22198d9abb695","x":-660,"y":-470,"width":250,"height":60},
+		{"type":"text","text":"DNS Server 3\nSecondary - Slave","id":"0846de7c7473cae1","x":-660,"y":180,"width":250,"height":60},
+		{"type":"text","text":"DNS server 1\nPrimary - Master","id":"86736dc2f05edb2d","x":-660,"y":-160,"width":250,"height":60},
+		{"type":"text","text":"Internet","id":"682f473a4bfb4add","x":110,"y":-470,"width":250,"height":60},
+		{"type":"text","text":"Router","id":"105227643705932f","x":110,"y":-190,"width":250,"height":60},
+		{"id":"360c71b70ca0ff9b","x":-600,"y":-740,"width":250,"height":60,"type":"text","text":"router"},
+		{"type":"text","text":"Web Server\nzonetransfer.me","id":"31356f2490613de6","x":-1520,"y":-740,"width":250,"height":60},
+		{"id":"df8dfef0c4715f98","x":-2020,"y":-980,"width":250,"height":60,"type":"text","text":"Target 1"},
+		{"id":"ea697c57349addee","x":-2020,"y":-740,"width":250,"height":60,"type":"text","text":"Target 2"},
+		{"id":"a2bc3c38ebcfa974","x":-2020,"y":-470,"width":250,"height":60,"type":"text","text":"Target 3"},
+		{"id":"6a14cf8a3b64e8f0","x":-1560,"y":-360,"width":290,"height":50,"color":"1","type":"text","text":"nslookup axfr zonetransfer.me"},
+		{"type":"text","text":"User","id":"363bac1b20fdeda1","x":110,"y":760,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0ca8c59171d26d55","fromNode":"86736dc2f05edb2d","fromSide":"right","toNode":"105227643705932f","toSide":"left","fromEnd":"arrow"},
+		{"id":"f559b9fcc55d097f","fromNode":"0846de7c7473cae1","fromSide":"right","toNode":"105227643705932f","toSide":"left"},
+		{"id":"07615627a4b5bc54","fromNode":"363bac1b20fdeda1","fromSide":"top","toNode":"105227643705932f","toSide":"bottom"},
+		{"id":"94e8d1668a0ffbe5","fromNode":"105227643705932f","fromSide":"top","toNode":"682f473a4bfb4add","toSide":"bottom"},
+		{"id":"44726ca20c99c93e","fromNode":"86736dc2f05edb2d","fromSide":"left","toNode":"0846de7c7473cae1","toSide":"left","label":"updates slave"},
+		{"id":"67f8d8344b996cda","fromNode":"86736dc2f05edb2d","fromSide":"left","toNode":"2bd22198d9abb695","toSide":"left","label":"updates slave"},
+		{"id":"e943d6bcb0dcb790","fromNode":"2bd22198d9abb695","fromSide":"right","toNode":"105227643705932f","toSide":"left"},
+		{"id":"a7112b80f5e1ccf0","fromNode":"363bac1b20fdeda1","fromSide":"left","toNode":"0846de7c7473cae1","toSide":"right"},
+		{"id":"b5baf12a89592a16","fromNode":"363bac1b20fdeda1","fromSide":"left","toNode":"86736dc2f05edb2d","toSide":"right"},
+		{"id":"3d76871ff6d18a4a","fromNode":"363bac1b20fdeda1","fromSide":"left","toNode":"2bd22198d9abb695","toSide":"right","label":"User can request any\nof the DNS server to\nget the info about\nan IP address of a WebServer"},
+		{"id":"13ce42506c56cbc2","fromNode":"31356f2490613de6","fromSide":"bottom","toNode":"86736dc2f05edb2d","toSide":"top","label":"Master has the Info of \nthe webserver in it"},
+		{"id":"4bbe12356f77295d","fromNode":"360c71b70ca0ff9b","fromSide":"right","toNode":"682f473a4bfb4add","toSide":"left"},
+		{"id":"473e83a0c5845d2f","fromNode":"31356f2490613de6","fromSide":"top","toNode":"360c71b70ca0ff9b","toSide":"left"},
+		{"id":"92b3cc3435e60618","fromNode":"df8dfef0c4715f98","fromSide":"right","toNode":"31356f2490613de6","toSide":"left"},
+		{"id":"c7201a360407b265","fromNode":"ea697c57349addee","fromSide":"right","toNode":"31356f2490613de6","toSide":"left"},
+		{"id":"d7d942b883bbb1eb","fromNode":"a2bc3c38ebcfa974","fromSide":"right","toNode":"31356f2490613de6","toSide":"left"},
+		{"id":"581f2d99278eb5ee","fromNode":"6a14cf8a3b64e8f0","fromSide":"right","toNode":"86736dc2f05edb2d","toSide":"left","color":"1"},
+		{"id":"14dac5ae6cbc3988","fromNode":"6a14cf8a3b64e8f0","fromSide":"right","toNode":"2bd22198d9abb695","toSide":"top","color":"1"},
+		{"id":"e791cb2e37a42dc5","fromNode":"6a14cf8a3b64e8f0","fromSide":"right","toNode":"0846de7c7473cae1","toSide":"top","color":"1"},
+		{"id":"57179d99f0aed69c","fromNode":"31356f2490613de6","fromSide":"bottom","toNode":"6a14cf8a3b64e8f0","toSide":"top","color":"1"},
+		{"id":"6cd4de23e10f4cbb","fromNode":"363bac1b20fdeda1","fromSide":"bottom","toNode":"6a14cf8a3b64e8f0","toSide":"bottom","color":"1"}
+	]
+}

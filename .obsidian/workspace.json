@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "b4e4cefee5f8c208",
+    "type": "split",
+    "children": [
+      {
+        "id": "774ab3eedf3ea338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "232a63cce9fe0fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Event Logs/Elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "086cb5cf62c3c47c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f10f91a2ccbae6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d902b1d775180ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "7f46d6e37bb367bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "john",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2823b77bb1a26ef3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5
+  },
+  "right": {
+    "id": "5c266c518ec00c88",
+    "type": "split",
+    "children": [
+      {
+        "id": "9629dd753bb43d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a75f05ac72d1cea8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows/Event Logs/Elements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c20be988d4945d27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Windows/Event Logs/Elements.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d30269b1847ce98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae8493db1bef10e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Windows/Event Logs/Elements.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "232a63cce9fe0fef",
+  "lastOpenFiles": [
+    "Screenshots/Pasted image 20230807074207.png",
+    "Screenshots/Pasted image 20230807072156.png",
+    "Windows/Windows Fundamentals/Permissions and User Accounts.md",
+    "Windows/Event Logs/Elements.md",
+    "Pasted image 20230807074207.png",
+    "Windows/Event Logs/Introduction.md",
+    "Pasted image 20230807072156.png",
+    "Windows/Windows Fundamentals/Computer management.md",
+    "Windows/Event Logs",
+    "Screenshots/Pasted image 20230807070807.png",
+    "Screenshots/Pasted image 20230807070626.png",
+    "Screenshots/Pasted image 20230807015849.png",
+    "Screenshots/Pasted image 20230807015839.png",
+    "Screenshots/Pasted image 20230807015831.png",
+    "Screenshots/Pasted image 20230807015734.png",
+    "Screenshots/Pasted image 20230807015619.png",
+    "Windows/Windows Fundamentals/System Configuration.md",
+    "Windows/Windows Fundamentals/Windows Security.md",
+    "Windows/Windows Fundamentals/Volume shadow copy service.md",
+    "Windows/Core Windows Processes",
+    "Windows",
+    "Windows/Windows Fundamentals/BitLocker.md",
+    "Windows/Windows Fundamentals/Windows Update.md",
+    "Windows/Windows Fundamentals/Registry Editor.md",
+    "Windows/Windows Fundamentals/Command Prompt.md",
+    "Windows/Windows Fundamentals/Resource Monitor.md",
+    "Windows/Windows Fundamentals/System Information.md",
+    "Windows/Windows Fundamentals/User Account Control - UAC.md",
+    "Windows/Windows Fundamentals/Introduction and File Folders.md",
+    "Active Directory/Introduction.md",
+    "Windows/Windows Fundamentals",
+    "Active Directory/Basics of AD",
+    "Active Directory",
+    "Hashes.md",
+    "Footprinting/Host Based Emuneration/NFS.md",
+    "Footprinting/Host Based Emuneration/Telnet  23.md",
+    "Footprinting/Host Based Emuneration/SMB 139 445.md",
+    "Walkthrough/Kenobi.md",
+    "Walkthrough",
+    "Footprinting/Host Based Emuneration/MySQL.md",
+    "Footprinting/Host Based Emuneration/IMAP.md",
+    "Footprinting/Host Based Emuneration/Oracle TNS.md",
+    "Footprinting/tools/osint.md",
+    "Wifi Hacking",
+    "Insecure Direct Object Reference - IDOR/Unconfirmed 578745.crdownload",
+    "Command Injection/Prevention",
+    "footprint.canvas",
+    "Untitled.canvas"
+  ]
+}
