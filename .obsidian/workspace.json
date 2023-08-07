@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Windows Fundamentals/Volume shadow copy service.md",
+                "file": "Windows/Event Logs/Important Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Windows Fundamentals/Volume shadow copy service.md",
+                "file": "Windows/Event Logs/Important Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Windows Fundamentals/Volume shadow copy service.md",
+                "file": "Windows/Event Logs/Important Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Windows Fundamentals/Volume shadow copy service.md"
+                "file": "Windows/Event Logs/Important Resources.md"
               }
             }
           },
@@ -138,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,35 +156,37 @@
   },
   "active": "232a63cce9fe0fef",
   "lastOpenFiles": [
-    "Windows/Windows Fundamentals/Volume shadow copy service.md",
     "Windows/Event Logs/Effective Filtering of logs.md",
-    "Screenshots/e2ceaa065e80a6763b7a861dbd4142fb.gif",
-    "Screenshots/Pasted image 20230807100739.png",
-    "Screenshots/Pasted image 20230807085956.png",
-    "Screenshots/Pasted image 20230807085620.png",
+    "Windows/Event Logs/Important Resources.md",
+    "Windows/Event Logs/Event IDs.md",
+    "Pasted image 20230807193524.png",
+    "Pasted image 20230807193513.png",
+    "Pasted image 20230807193511.png",
+    "Pasted image 20230807193447.png",
+    "Pasted image 20230807193423.png",
+    "Pasted image 20230807193405.png",
+    "Pasted image 20230807193324.png",
+    "Pasted image 20230807193146.png",
+    "Pasted image 20230807192757.png",
+    "Screenshots/Pasted image 20230807182948.png",
+    "Windows/Windows Fundamentals/Volume shadow copy service.md",
+    "Windows/Event Logs/Introduction.md",
     "Windows/Event Logs/Elements.md",
-    "Pasted image 20230807100739.png",
-    "Pasted image 20230807085956.png",
-    "Pasted image 20230807085620.png",
-    "Windows/Windows Fundamentals/Computer management.md",
-    "Windows/Windows Fundamentals/System Configuration.md",
-    "Windows/Windows Fundamentals/User Account Control - UAC.md",
-    "Windows/Windows Fundamentals/Permissions and User Accounts.md",
-    "Windows/Windows Fundamentals/Introduction and File Folders.md",
+    "Windows/Windows Fundamentals/BitLocker.md",
     "Windows/Windows Fundamentals/Windows Security.md",
     "Windows/Windows Fundamentals/Windows Update.md",
     "Windows/Windows Fundamentals/Registry Editor.md",
     "Windows/Windows Fundamentals/Command Prompt.md",
     "Windows/Windows Fundamentals/Resource Monitor.md",
     "Windows/Windows Fundamentals/System Information.md",
-    "Screenshots/Pasted image 20230807074207.png",
-    "Screenshots/Pasted image 20230807072156.png",
-    "Pasted image 20230807074207.png",
-    "Windows/Event Logs/Introduction.md",
+    "Windows/Windows Fundamentals/Computer management.md",
+    "Windows/Windows Fundamentals/System Configuration.md",
+    "Windows/Windows Fundamentals/User Account Control - UAC.md",
+    "Windows/Windows Fundamentals/Permissions and User Accounts.md",
+    "Windows/Windows Fundamentals/Introduction and File Folders.md",
     "Windows/Event Logs",
     "Windows/Core Windows Processes",
     "Windows",
-    "Windows/Windows Fundamentals/BitLocker.md",
     "Active Directory/Introduction.md",
     "Windows/Windows Fundamentals",
     "Active Directory/Basics of AD",
@@ -198,7 +199,6 @@
     "Walkthrough",
     "Footprinting/Host Based Emuneration/MySQL.md",
     "Footprinting/Host Based Emuneration/IMAP.md",
-    "Footprinting/Host Based Emuneration/Oracle TNS.md",
     "Wifi Hacking",
     "Insecure Direct Object Reference - IDOR/Unconfirmed 578745.crdownload",
     "Command Injection/Prevention",

@@ -21,7 +21,7 @@
 	- **DNS Event Logs:** DNS servers use these logs to record domain events and to map out
 	- **Custom Logs:** Events are logged by applications that require custom data storage. This allows applications to control the log size or attach other parameters, such as ACLs, for security purposes.
 
-- Under this categorization, event logs can be further classified into types
+- Under this categorisation, event logs can be further classified into types
 
 ![[Pasted image 20230807074207.png]]
 

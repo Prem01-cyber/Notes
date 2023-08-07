@@ -21,6 +21,3 @@
 
 ![[Pasted image 20230807070807.png]]
 
-- a new addition
-- a second new addition
-- 
