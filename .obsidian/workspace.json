@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Event Logs/Elements.md",
+                "file": "Windows/Core Windows Processes/Processes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Event Logs/Elements.md",
+                "file": "Windows/Core Windows Processes/Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Event Logs/Elements.md",
+                "file": "Windows/Core Windows Processes/Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Event Logs/Elements.md"
+                "file": "Windows/Core Windows Processes/Processes.md"
               }
             }
+          },
+          {
+            "id": "861073cc6458fe84",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,37 +154,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "232a63cce9fe0fef",
+  "active": "1d902b1d775180ae",
   "lastOpenFiles": [
-    "Screenshots/Pasted image 20230807074207.png",
-    "Screenshots/Pasted image 20230807072156.png",
-    "Windows/Windows Fundamentals/Permissions and User Accounts.md",
-    "Windows/Event Logs/Elements.md",
-    "Pasted image 20230807074207.png",
-    "Windows/Event Logs/Introduction.md",
-    "Pasted image 20230807072156.png",
-    "Windows/Windows Fundamentals/Computer management.md",
-    "Windows/Event Logs",
-    "Screenshots/Pasted image 20230807070807.png",
-    "Screenshots/Pasted image 20230807070626.png",
-    "Screenshots/Pasted image 20230807015849.png",
-    "Screenshots/Pasted image 20230807015839.png",
-    "Screenshots/Pasted image 20230807015831.png",
-    "Screenshots/Pasted image 20230807015734.png",
-    "Screenshots/Pasted image 20230807015619.png",
-    "Windows/Windows Fundamentals/System Configuration.md",
-    "Windows/Windows Fundamentals/Windows Security.md",
+    "Screenshots/Pasted image 20230807232258.png",
+    "Screenshots/Pasted image 20230807231942.png",
+    "Screenshots/Pasted image 20230807231937.png",
+    "Screenshots/Pasted image 20230807231934.png",
+    "Screenshots/Pasted image 20230807231904.png",
+    "Screenshots/Pasted image 20230807231818.png",
+    "Screenshots/Pasted image 20230807231754.png",
+    "Screenshots/Pasted image 20230807231442.png",
+    "Screenshots/Pasted image 20230807231353.png",
+    "Pasted image 20230807232258.png",
+    "Pasted image 20230807231942.png",
+    "Windows/Core Windows Processes/Processes.md",
+    "Windows/Core Windows Processes/Introduction.md",
+    "Windows/Core Windows Processes/User and Kernel Modes.md",
+    "Windows/Event Logs/Important Resources.md",
+    "Windows/Event Logs/Effective Filtering of logs.md",
+    "Windows/Event Logs/Event IDs.md",
     "Windows/Windows Fundamentals/Volume shadow copy service.md",
-    "Windows/Core Windows Processes",
-    "Windows",
+    "Windows/Event Logs/Introduction.md",
+    "Windows/Event Logs/Elements.md",
     "Windows/Windows Fundamentals/BitLocker.md",
+    "Windows/Windows Fundamentals/Windows Security.md",
     "Windows/Windows Fundamentals/Windows Update.md",
     "Windows/Windows Fundamentals/Registry Editor.md",
     "Windows/Windows Fundamentals/Command Prompt.md",
     "Windows/Windows Fundamentals/Resource Monitor.md",
     "Windows/Windows Fundamentals/System Information.md",
+    "Windows/Windows Fundamentals/Computer management.md",
+    "Windows/Windows Fundamentals/System Configuration.md",
     "Windows/Windows Fundamentals/User Account Control - UAC.md",
+    "Windows/Windows Fundamentals/Permissions and User Accounts.md",
     "Windows/Windows Fundamentals/Introduction and File Folders.md",
+    "Windows/Event Logs",
+    "Windows/Core Windows Processes",
+    "Windows",
     "Active Directory/Introduction.md",
     "Windows/Windows Fundamentals",
     "Active Directory/Basics of AD",
@@ -184,13 +198,7 @@
     "Hashes.md",
     "Footprinting/Host Based Emuneration/NFS.md",
     "Footprinting/Host Based Emuneration/Telnet  23.md",
-    "Footprinting/Host Based Emuneration/SMB 139 445.md",
-    "Walkthrough/Kenobi.md",
     "Walkthrough",
-    "Footprinting/Host Based Emuneration/MySQL.md",
-    "Footprinting/Host Based Emuneration/IMAP.md",
-    "Footprinting/Host Based Emuneration/Oracle TNS.md",
-    "Footprinting/tools/osint.md",
     "Wifi Hacking",
     "Insecure Direct Object Reference - IDOR/Unconfirmed 578745.crdownload",
     "Command Injection/Prevention",

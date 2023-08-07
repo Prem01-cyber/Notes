@@ -20,3 +20,4 @@
 - Doing so makes it impossible to recover from a ransomware attack unless you have an offline/off-site backup.
 
 ![[Pasted image 20230807070807.png]]
+

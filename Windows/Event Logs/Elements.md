@@ -21,8 +21,34 @@
 	- **DNS Event Logs:** DNS servers use these logs to record domain events and to map out
 	- **Custom Logs:** Events are logged by applications that require custom data storage. This allows applications to control the log size or attach other parameters, such as ACLs, for security purposes.
 
-- Under this categorization, event logs can be further classified into types
+- Under this categorisation, event logs can be further classified into types
 
 ![[Pasted image 20230807074207.png]]
 
-- 
+- There are three main ways of accessing these event logs within a Windows system:
+	1. **Event Viewer** (GUI-based application)
+	2. **Wevtutil.exe** (command-line tool)
+	3. **Get-WinEvent** (PowerShell cmdlet)
+
+#### `Event Viewer -->`
+
+- In any Windows system, the Event Viewer, a **Microsoft Management Console (MMC)** snap-in, can be launched by simply right-clicking the Windows icon in the taskbar and selecting **Event Viewer**.
+- For the savvy sysadmins that use the CLI much of their day, Event Viewer can be launched by typing `eventvwr.msc`
+
+![[e2ceaa065e80a6763b7a861dbd4142fb.gif]]
+
+- It has three panes which provide a complete view over the events logged
+- The middle plane displays events specific to the selected log provider
+- The action pane provides a lot of options, we can also open a saved log, we can create a log and we can also filter logs in action pane
+
+>[!Note]
+>we can view event logs from another computer `Event Viewer (Local) > Connect to Another Computer...`
+>![[Pasted image 20230807085956.png]]
+- The standard logs we had earlier defined on the left pane are visible under **Windows Logs**, [[Computer management#`Event Viewer -->`]]
+
+#### `Application and Service logs -->`
+
+- This provides logs of specific applications for instance `Microsoft > Windows > PowerShell > Operational` Powershell logs operations from engine, providers and cmdlets to the windows event logs
+
+![[Pasted image 20230807085620.png]]
+
