@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Event Logs/Important Resources.md",
+                "file": "Windows/Core Windows Processes/Processes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Event Logs/Important Resources.md",
+                "file": "Windows/Core Windows Processes/Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Event Logs/Important Resources.md",
+                "file": "Windows/Core Windows Processes/Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Event Logs/Important Resources.md"
+                "file": "Windows/Core Windows Processes/Processes.md"
               }
             }
           },
@@ -154,21 +154,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "232a63cce9fe0fef",
+  "active": "1d902b1d775180ae",
   "lastOpenFiles": [
-    "Windows/Event Logs/Effective Filtering of logs.md",
+    "Screenshots/Pasted image 20230807232258.png",
+    "Screenshots/Pasted image 20230807231942.png",
+    "Screenshots/Pasted image 20230807231937.png",
+    "Screenshots/Pasted image 20230807231934.png",
+    "Screenshots/Pasted image 20230807231904.png",
+    "Screenshots/Pasted image 20230807231818.png",
+    "Screenshots/Pasted image 20230807231754.png",
+    "Screenshots/Pasted image 20230807231442.png",
+    "Screenshots/Pasted image 20230807231353.png",
+    "Pasted image 20230807232258.png",
+    "Pasted image 20230807231942.png",
+    "Windows/Core Windows Processes/Processes.md",
+    "Windows/Core Windows Processes/Introduction.md",
+    "Windows/Core Windows Processes/User and Kernel Modes.md",
     "Windows/Event Logs/Important Resources.md",
+    "Windows/Event Logs/Effective Filtering of logs.md",
     "Windows/Event Logs/Event IDs.md",
-    "Pasted image 20230807193524.png",
-    "Pasted image 20230807193513.png",
-    "Pasted image 20230807193511.png",
-    "Pasted image 20230807193447.png",
-    "Pasted image 20230807193423.png",
-    "Pasted image 20230807193405.png",
-    "Pasted image 20230807193324.png",
-    "Pasted image 20230807193146.png",
-    "Pasted image 20230807192757.png",
-    "Screenshots/Pasted image 20230807182948.png",
     "Windows/Windows Fundamentals/Volume shadow copy service.md",
     "Windows/Event Logs/Introduction.md",
     "Windows/Event Logs/Elements.md",
@@ -194,11 +198,7 @@
     "Hashes.md",
     "Footprinting/Host Based Emuneration/NFS.md",
     "Footprinting/Host Based Emuneration/Telnet  23.md",
-    "Footprinting/Host Based Emuneration/SMB 139 445.md",
-    "Walkthrough/Kenobi.md",
     "Walkthrough",
-    "Footprinting/Host Based Emuneration/MySQL.md",
-    "Footprinting/Host Based Emuneration/IMAP.md",
     "Wifi Hacking",
     "Insecure Direct Object Reference - IDOR/Unconfirmed 578745.crdownload",
     "Command Injection/Prevention",
