@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Walkthrough/Starters/Mr Robot.md",
-                "mode": "source",
+                "file": "Footprinting/Host Based Emuneration/SMB 139 445.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ffuf",
+                "query": "smbclient",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough/Starters/Mr Robot.md",
+                "file": "Footprinting/Host Based Emuneration/SMB 139 445.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walkthrough/Starters/Mr Robot.md",
+                "file": "Footprinting/Host Based Emuneration/SMB 139 445.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walkthrough/Starters/Mr Robot.md"
+                "file": "Footprinting/Host Based Emuneration/SMB 139 445.md"
               }
             }
           },
@@ -154,27 +154,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4f976f087b7d782",
+  "active": "1d902b1d775180ae",
   "lastOpenFiles": [
-    "Pasted image 20230808160203.png",
+    "Screenshots/Screenshot from 2023-08-08 16-00-47.png",
+    "Screenshots/Screenshot from 2023-08-08 15-56-16.png",
+    "Screenshots/Screenshot from 2023-08-08 15-41-29.png",
+    "Screenshots/Pasted image 20230808160203.png",
+    "Screenshots/Pasted image 20230808155544.png",
+    "Screenshots/Pasted image 20230808155133.png",
+    "Screenshots/Pasted image 20230808154425.png",
+    "Screenshots/Pasted image 20230808154400.png",
+    "Screenshots/Pasted image 20230808152508.png",
+    "Introduction/cheatsheet-77.md",
+    "Attacking Web applications/tools/cheatsheet-54.md",
+    "Attacking Web applications/Parameter Fuzzing/Value Fuzzing.md",
+    "Attacking Web applications/Basic Fuzzing/Directory Fuzzing.md",
+    "Command Injection/Exploitations/Injecting Commands.md",
+    "Command Injection/Exploitations/Other Injection Operators.md",
     "Walkthrough/Starters/Mr Robot.md",
+    "Pasted image 20230808160203.png",
     "Screenshot from 2023-08-08 16-00-47.png",
-    "Screenshot from 2023-08-08 15-56-16.png",
-    "Pasted image 20230808155544.png",
-    "Pasted image 20230808155133.png",
-    "Pasted image 20230808154425.png",
-    "Pasted image 20230808154400.png",
-    "Screenshot from 2023-08-08 15-41-29.png",
     "Walkthrough/Starters/Pickle Rick.md",
-    "Pasted image 20230808152508.png",
-    "Screenshots/Screenshot from 2023-08-08 15-10-23.png",
     "Walkthrough/Advent of Cyber 2/Day 5.md",
     "Walkthrough/Starters",
     "Walkthrough/Advent of Cyber 2/Day 4.md",
     "Walkthrough/Advent of Cyber 2/Day 3.md",
-    "Attacking Web applications/Basic Fuzzing/Directory Fuzzing.md",
     "Walkthrough/Advent of Cyber 2/Day 2.md",
-    "Attacking Web applications/tools/cheatsheet-54.md",
     "Checklist.md",
     "portswigger notes/web-security-academy/file-upload-vulnerabilities/README.md",
     "Walkthrough/Advent of Cyber 2/Day 1.md",
@@ -189,10 +194,6 @@
     "Windows/Event Logs/Event IDs.md",
     "Windows/Windows Fundamentals/Volume shadow copy service.md",
     "Windows/Event Logs/Introduction.md",
-    "Windows/Event Logs/Elements.md",
-    "Windows/Windows Fundamentals/BitLocker.md",
-    "Windows/Windows Fundamentals/Windows Security.md",
-    "Windows/Windows Fundamentals/Windows Update.md",
     "Windows/Event Logs",
     "Windows/Core Windows Processes",
     "Windows",
