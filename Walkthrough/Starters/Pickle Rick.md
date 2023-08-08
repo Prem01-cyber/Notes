@@ -19,10 +19,14 @@
 
 ![[Pasted image 20230808150702.png]]
 
+![[Pasted image 20230808152508.png]]
+
 ![[Screenshot from 2023-08-08 15-10-23.png]]
 
 sudo was not disabled
+it had not password verification which was verified through `sudo -l`
+used `grep -R " "`  to get the idea of what commands were disabled
 sudo ls ../../../*
-first one was directly accesable
+first one was directly accessible
 second and third one's were found in the directories
 There was a text but it was nothing

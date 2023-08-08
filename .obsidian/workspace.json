@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Walkthrough/Starters/Pickle Rick.md",
+                "file": "Walkthrough/Starters/Mr Robot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough/Starters/Pickle Rick.md",
+                "file": "Walkthrough/Starters/Mr Robot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walkthrough/Starters/Pickle Rick.md",
+                "file": "Walkthrough/Starters/Mr Robot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walkthrough/Starters/Pickle Rick.md"
+                "file": "Walkthrough/Starters/Mr Robot.md"
               }
             }
           },
@@ -154,20 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "861073cc6458fe84",
+  "active": "d4f976f087b7d782",
   "lastOpenFiles": [
-    "Screenshots/Screenshot from 2023-08-08 15-10-23.png",
-    "Screenshots/Screenshot from 2023-08-08 15-07-12.png",
-    "Screenshots/Screenshot from 2023-08-08 14-57-08.png",
-    "Screenshots/Screenshot from 2023-08-08 13-59-10.png",
-    "Screenshots/Screenshot from 2023-08-08 11-37-33.png",
-    "Screenshots/Screenshot from 2023-08-08 11-33-32.png",
-    "Screenshots/Screenshot from 2023-08-08 11-14-06.png",
-    "Screenshots/Pasted image 20230808150702.png",
-    "Screenshots/Pasted image 20230808144347.png",
-    "Screenshots/Pasted image 20230808144334.png",
-    "Screenshots/Pasted image 20230808135854.png",
+    "Pasted image 20230808160203.png",
+    "Walkthrough/Starters/Mr Robot.md",
+    "Screenshot from 2023-08-08 16-00-47.png",
+    "Screenshot from 2023-08-08 15-56-16.png",
+    "Pasted image 20230808155544.png",
+    "Pasted image 20230808155133.png",
+    "Pasted image 20230808154425.png",
+    "Pasted image 20230808154400.png",
+    "Screenshot from 2023-08-08 15-41-29.png",
     "Walkthrough/Starters/Pickle Rick.md",
+    "Pasted image 20230808152508.png",
+    "Screenshots/Screenshot from 2023-08-08 15-10-23.png",
     "Walkthrough/Advent of Cyber 2/Day 5.md",
     "Walkthrough/Starters",
     "Walkthrough/Advent of Cyber 2/Day 4.md",
@@ -193,7 +193,6 @@
     "Windows/Windows Fundamentals/BitLocker.md",
     "Windows/Windows Fundamentals/Windows Security.md",
     "Windows/Windows Fundamentals/Windows Update.md",
-    "Windows/Windows Fundamentals/Registry Editor.md",
     "Windows/Event Logs",
     "Windows/Core Windows Processes",
     "Windows",
