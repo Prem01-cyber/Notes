@@ -1,6 +1,6 @@
 
 - These are called ideas that really doesn't tell us a whole lot, but they're really simple to understand once we get going.
-- And so these ideas are going to be just parameters that we can change, that we can so that we can bypass specific functions on a web app with ideas or business logic errors.
+- And so these ideas are going to be just ***parameters that we can change***, that we can so that we can bypass specific functions on a web app with ideas or business logic errors.
 - You can bypass payment options, you can reverse payment options so that you're the one getting paid. You can put things into other people's carts.
 - There's a lot of different ways you can use IDORs, and when you're out hunting on your own, you're going to have to be creative because there are many different ways that you can exploit IDORs, you can skip login pages, you can access someone else's account.
 - The possibilities are endless and the only limit is imagination.
