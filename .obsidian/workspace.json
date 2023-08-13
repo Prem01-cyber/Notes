@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/cheatsheet-77.md",
+                "file": "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smbclient",
+                "query": "sqlmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 402.5
   },
   "right": {
     "id": "5c266c518ec00c88",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction/cheatsheet-77.md",
+                "file": "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction/cheatsheet-77.md",
+                "file": "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction/cheatsheet-77.md"
+                "file": "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md"
               }
             }
           },
@@ -157,6 +156,12 @@
   },
   "active": "02c03bf7aae3f175",
   "lastOpenFiles": [
+    "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Introduction.md",
+    "SQL Injection - manual and automated/SQL Injection - Automated/Building Attacks/Running SQLMap on an HTTP Request.md",
+    "SQL Injection - manual and automated/SQL Injection - Automated/Advanced SQLMap Usage/Bypassing Web Application Protection.md",
+    "SQL Injection - manual and automated/SQL Injection - Automated/Database Enumeration/Advance Database Enumeration.md",
+    "Walkthrough/Starters/Pickle Rick.md",
+    "Introduction/cheatsheet-77.md",
     "Hash Crackers/John the ripper/Basic Hash Cracking.md",
     "Hash Crackers/John the ripper/Introduction.md",
     "Hash Crackers/John the ripper/Untitled",
@@ -172,8 +177,6 @@
     "Command Injection/Exploitations/Detection.md",
     "Command Injection/Filter Evasion/Advance Command Obfuscation.md",
     "OWASP Top !0/3. Injection.md",
-    "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Introduction.md",
-    "SQL Injection - manual and automated/SQL Injection - Automated/Advanced SQLMap Usage/Bypassing Web Application Protection.md",
     "SQL Injection Fundamentals/Databases/MySQL/Introduction.md",
     "SQL Injection Fundamentals/Databases/MySQL",
     "SQL Injection Fundamentals/Databases",
@@ -181,7 +184,6 @@
     "OWASP Top !0/2. Cryptographic Failures.md",
     "Pasted image 20230809190109.png",
     "Untitled.md",
-    "Introduction/cheatsheet-77.md",
     "Login Brute Forcing/tools/cheatsheet-57.md",
     "OWASP Top !0/1. Broken Access Control.md",
     "Pasted image 20230808205059.png",
@@ -197,9 +199,6 @@
     "Networks/SSL  (Secure Socket Layer).md",
     "Networks/OSI Model.md",
     "Walkthrough/Starters/Mr Robot.md",
-    "Hashes.md",
-    "Firefox tips and tricks.md",
-    "Webstack Identification.md",
     "footprint.canvas",
     "Walkthrough/Starters",
     "Walkthrough/Advent of Cyber 2",
