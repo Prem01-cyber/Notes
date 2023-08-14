@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md",
+                "file": "Attacking Web applications/Domain fuzzing/Sub Domain Fuzzing.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sqlmap",
+                "query": "ffuf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md",
+                "file": "Attacking Web applications/Domain fuzzing/Sub Domain Fuzzing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md",
+                "file": "Attacking Web applications/Domain fuzzing/Sub Domain Fuzzing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md"
+                "file": "Attacking Web applications/Domain fuzzing/Sub Domain Fuzzing.md"
               }
             }
           },
@@ -156,6 +156,11 @@
   },
   "active": "02c03bf7aae3f175",
   "lastOpenFiles": [
+    "Attacking Web applications/Domain fuzzing/DNS Records.md",
+    "Attacking Web applications/Basic Fuzzing/Directory Fuzzing.md",
+    "Attacking Web applications/tools/cheatsheet-54.md",
+    "Footprinting/tools/osint.md",
+    "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md",
     "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Introduction.md",
     "SQL Injection - manual and automated/SQL Injection - Automated/Building Attacks/Running SQLMap on an HTTP Request.md",
     "SQL Injection - manual and automated/SQL Injection - Automated/Advanced SQLMap Usage/Bypassing Web Application Protection.md",
@@ -194,11 +199,6 @@
     "OWASP Top !0/Introduction.md",
     "OWASP Top !0",
     "Login Brute Forcing/Web Forms Brute Forcing/Login Form Attacks.md",
-    "Login Brute Forcing/Web Forms Brute Forcing/Determine Login Parameters.md",
-    "Login Brute Forcing/Web Forms Brute Forcing/Hydra Modules.md",
-    "Networks/SSL  (Secure Socket Layer).md",
-    "Networks/OSI Model.md",
-    "Walkthrough/Starters/Mr Robot.md",
     "footprint.canvas",
     "Walkthrough/Starters",
     "Walkthrough/Advent of Cyber 2",
