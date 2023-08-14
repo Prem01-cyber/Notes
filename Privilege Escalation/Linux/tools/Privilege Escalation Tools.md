@@ -1,3 +1,4 @@
+
 | **Command** | **Description** |
 | --------------|-------------------|
 | `ssh htb-student@<target IP>` | SSH to lab target |
@@ -35,3 +36,5 @@
 | `sudo mount -t nfs 10.129.2.12:/tmp /mnt` | Mount an NFS share locally |
 | `tmux -S /shareds new -s debugsess` | Created a shared `tmux` session socket |
 | `./lynis audit system` | Perform a system audit with `Lynis` |h87y666666666666
+
+
