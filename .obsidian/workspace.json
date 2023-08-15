@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md",
+                "file": "Privilege Escalation/Windows/Useful tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md",
+                "file": "Privilege Escalation/Windows/Useful tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md",
+                "file": "Privilege Escalation/Windows/Useful tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md"
+                "file": "Privilege Escalation/Windows/Useful tools.md"
               }
             }
           },
@@ -156,8 +156,11 @@
   },
   "active": "62c98ea6df916eab",
   "lastOpenFiles": [
-    "Privilege Escalation/Linux/Environment Based Priv Esc/Path Abuse.md",
+    "Privilege Escalation/Windows/cheatsheet/cheatsheet-67.md",
+    "Privilege Escalation/Windows/Useful tools.md",
     "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md",
+    "Privilege Escalation/Untitled",
+    "Privilege Escalation/Linux/Environment Based Priv Esc/Path Abuse.md",
     "Privilege Escalation/Linux/Permission-based Priv Esc",
     "PayloadsAllTheThings/Methodology and Resources/Linux - Privilege Escalation.md",
     "Privilege Escalation/Linux/Environment Based Priv Esc",
@@ -192,7 +195,6 @@
     "PayloadsAllTheThings/XXE Injection/Intruders/xml-attacks.txt",
     "PayloadsAllTheThings/XXE Injection/Intruders/XXE_Fuzzing.txt",
     "PayloadsAllTheThings/XXE Injection/Files/XXE PHP Wrapper.xml",
-    "PayloadsAllTheThings/XXE Injection/Files/XXE OOB Attack (Yunusov, 2013).xml",
     "PayloadsAllTheThings/XXE Injection/README.md",
     "PayloadsAllTheThings/XSS Injection/Images/DwrkbH1VAAErOI2.jpg",
     "PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_single_quote.png",
@@ -200,8 +202,6 @@
     "PayloadsAllTheThings/XSS Injection/Files/payload_text_xss.png",
     "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_metadata.png",
     "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_metadata.jpg",
-    "PayloadsAllTheThings/XSS Injection/XSS with Relative Path Overwrite.md",
-    "PayloadsAllTheThings/XSS Injection/XSS in Angular.md",
     "footprint.canvas",
     "Untitled.canvas"
   ]
