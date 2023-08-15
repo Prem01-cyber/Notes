@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f6c780c082f11f62",
+        "id": "c1029e786774adbd",
         "type": "tabs",
         "children": [
           {
-            "id": "9d099f6450314826",
+            "id": "62c98ea6df916eab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation/Linux/Information Gathering/Environment Enumeration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a11ac84085e79273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privilege Escalation/Linux/tools/Privilege Escalation Tools.md",
+                "file": "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cewl",
+                "query": "CVE-2019-14287",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation/Linux/Information Gathering/Environment Enumeration.md",
+                "file": "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation/Linux/Information Gathering/Environment Enumeration.md",
+                "file": "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation/Linux/Information Gathering/Environment Enumeration.md"
+                "file": "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md"
               }
             }
           },
@@ -166,8 +154,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "861073cc6458fe84",
+  "active": "62c98ea6df916eab",
   "lastOpenFiles": [
+    "Privilege Escalation/Linux/Environment Based Priv Esc/Path Abuse.md",
+    "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md",
+    "Privilege Escalation/Linux/Permission-based Priv Esc",
+    "PayloadsAllTheThings/Methodology and Resources/Linux - Privilege Escalation.md",
+    "Privilege Escalation/Linux/Environment Based Priv Esc",
+    "PayloadsAllTheThings/Methodology and Resources/Linux - Persistence.md",
+    "PayloadsAllTheThings/Web Sockets/Images/websocket-harness-start.png",
+    "PayloadsAllTheThings/Web Sockets/Images/WebsocketHarness.jpg",
+    "PayloadsAllTheThings/Web Sockets/Images/sqlmap.png",
+    "PayloadsAllTheThings/Web Sockets/README.md",
+    "PayloadsAllTheThings/Methodology and Resources/Miscellaneous - Tricks.md",
+    "PayloadsAllTheThings/Methodology and Resources/Methodology and enumeration.md",
+    "PayloadsAllTheThings/Methodology and Resources/Metasploit - Cheatsheet.md",
+    "PayloadsAllTheThings/Methodology and Resources/MSSQL Server - Cheatsheet.md",
+    "PayloadsAllTheThings/Methodology and Resources/Linux - Evasion.md",
+    "PayloadsAllTheThings/Methodology and Resources/Active Directory Attack.md",
+    "PayloadsAllTheThings/Methodology and Resources/Reverse Shell Cheatsheet.md",
+    "PayloadsAllTheThings/Methodology and Resources/Windows - Privilege Escalation.md",
+    "Screenshots/Pasted image 20230814234536.png",
+    "PayloadsAllTheThings/Methodology and Resources/Windows - Mimikatz.md",
+    "PayloadsAllTheThings/Methodology and Resources/Subdomains Enumeration.md",
+    "PayloadsAllTheThings/Methodology and Resources/Source Code Management.md",
+    "Firefox tips and tricks.md",
+    "tips.md",
+    "Privilege Escalation/Linux/Information Gathering/Environment Enumeration.md",
     "PayloadsAllTheThings/mkdocs.yml",
     "PayloadsAllTheThings/custom.css",
     "PayloadsAllTheThings/_template_vuln/README.md",
@@ -180,9 +193,6 @@
     "PayloadsAllTheThings/XXE Injection/Intruders/XXE_Fuzzing.txt",
     "PayloadsAllTheThings/XXE Injection/Files/XXE PHP Wrapper.xml",
     "PayloadsAllTheThings/XXE Injection/Files/XXE OOB Attack (Yunusov, 2013).xml",
-    "PayloadsAllTheThings/XXE Injection/Files/Deny Of Service - Billion Laugh Attack",
-    "PayloadsAllTheThings/XXE Injection/Files/Classic XXE.xml",
-    "PayloadsAllTheThings/XXE Injection/Files/Classic XXE - etc passwd.xml",
     "PayloadsAllTheThings/XXE Injection/README.md",
     "PayloadsAllTheThings/XSS Injection/Images/DwrkbH1VAAErOI2.jpg",
     "PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_single_quote.png",
@@ -190,30 +200,8 @@
     "PayloadsAllTheThings/XSS Injection/Files/payload_text_xss.png",
     "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_metadata.png",
     "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_metadata.jpg",
-    "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_exif_corrupted.png",
-    "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_exif_corrupted.jpg",
-    "PayloadsAllTheThings/XSS Injection/Files/onclick-xss-ecs.jpeg",
-    "PayloadsAllTheThings/XSS Injection/Files/mouseover-xss-ecs.jpeg",
     "PayloadsAllTheThings/XSS Injection/XSS with Relative Path Overwrite.md",
     "PayloadsAllTheThings/XSS Injection/XSS in Angular.md",
-    "PayloadsAllTheThings/XSS Injection/README.md",
-    "PayloadsAllTheThings/XSLT Injection/README.md",
-    "PayloadsAllTheThings/XPATH Injection/README.md",
-    "PayloadsAllTheThings/Web Sockets/README.md",
-    "PayloadsAllTheThings/Web Cache Deception/README.md",
-    "PayloadsAllTheThings/Upload Insecure Files/Zip Slip/README.md",
-    "PayloadsAllTheThings/Upload Insecure Files/Picture ImageMagick/README.md",
-    "PayloadsAllTheThings/Upload Insecure Files/Extension Flash/README.md",
-    "PayloadsAllTheThings/Upload Insecure Files/Configuration uwsgi.ini/README.md",
-    "PayloadsAllTheThings/Upload Insecure Files/Configuration Busybox httpd.conf/README.md",
-    "PayloadsAllTheThings/Upload Insecure Files/Configuration Apache .htaccess/README.md",
-    "PayloadsAllTheThings/Upload Insecure Files/CVE Ffmpeg HLS/README.md",
-    "PayloadsAllTheThings/Upload Insecure Files/README.md",
-    "PayloadsAllTheThings/Type Juggling/README.md",
-    "PayloadsAllTheThings/Tabnabbing/README.md",
-    "PayloadsAllTheThings/Server Side Template Injection/README.md",
-    "PayloadsAllTheThings/Server Side Request Forgery/README.md",
-    "PayloadsAllTheThings/Server Side Include Injection/README.md",
     "footprint.canvas",
     "Untitled.canvas"
   ]
