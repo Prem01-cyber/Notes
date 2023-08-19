@@ -38,3 +38,16 @@
 | `./lynis audit system` | Perform a system audit with `Lynis` |h87y666666666666
 
 
+#### `THM Linux Privesc -->`
+
+[PrivEsc Linux Commands and Methods](https://tryhackme.com/room/linuxprivesc)
+
+1. Service Exploits - research specific
+2. Weak File Permissions - shadow and passwd - mkpasswd, openssl
+3. GTFO Bins - `sudo -l`, processes with sudo permissions
+4. Environment variables manipulation - cron jobs, sudo privileged file edit
+5. History Files
+6. NFS
+7. Kernel Exploits
+8. Privilege escalation Scripts
+

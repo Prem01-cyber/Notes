@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation/Windows/Useful tools.md",
+                "file": "Wireshark/Analyzing Exploit PCAP's.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CVE-2019-14287",
+                "query": "john",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 328.5
   },
   "right": {
     "id": "5c266c518ec00c88",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation/Windows/Useful tools.md",
+                "file": "Wireshark/Analyzing Exploit PCAP's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation/Windows/Useful tools.md",
+                "file": "Wireshark/Analyzing Exploit PCAP's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation/Windows/Useful tools.md"
+                "file": "Wireshark/Analyzing Exploit PCAP's.md"
               }
             }
           },
@@ -156,53 +156,53 @@
   },
   "active": "62c98ea6df916eab",
   "lastOpenFiles": [
-    "Privilege Escalation/Windows/cheatsheet/cheatsheet-67.md",
-    "Privilege Escalation/Windows/Useful tools.md",
-    "Privilege Escalation/Linux/Permission-based Priv Esc/Capabilities.md",
-    "Privilege Escalation/Untitled",
-    "Privilege Escalation/Linux/Environment Based Priv Esc/Path Abuse.md",
-    "Privilege Escalation/Linux/Permission-based Priv Esc",
-    "PayloadsAllTheThings/Methodology and Resources/Linux - Privilege Escalation.md",
-    "Privilege Escalation/Linux/Environment Based Priv Esc",
-    "PayloadsAllTheThings/Methodology and Resources/Linux - Persistence.md",
-    "PayloadsAllTheThings/Web Sockets/Images/websocket-harness-start.png",
-    "PayloadsAllTheThings/Web Sockets/Images/WebsocketHarness.jpg",
-    "PayloadsAllTheThings/Web Sockets/Images/sqlmap.png",
-    "PayloadsAllTheThings/Web Sockets/README.md",
-    "PayloadsAllTheThings/Methodology and Resources/Miscellaneous - Tricks.md",
-    "PayloadsAllTheThings/Methodology and Resources/Methodology and enumeration.md",
-    "PayloadsAllTheThings/Methodology and Resources/Metasploit - Cheatsheet.md",
-    "PayloadsAllTheThings/Methodology and Resources/MSSQL Server - Cheatsheet.md",
-    "PayloadsAllTheThings/Methodology and Resources/Linux - Evasion.md",
-    "PayloadsAllTheThings/Methodology and Resources/Active Directory Attack.md",
-    "PayloadsAllTheThings/Methodology and Resources/Reverse Shell Cheatsheet.md",
-    "PayloadsAllTheThings/Methodology and Resources/Windows - Privilege Escalation.md",
-    "Screenshots/Pasted image 20230814234536.png",
-    "PayloadsAllTheThings/Methodology and Resources/Windows - Mimikatz.md",
-    "PayloadsAllTheThings/Methodology and Resources/Subdomains Enumeration.md",
-    "PayloadsAllTheThings/Methodology and Resources/Source Code Management.md",
-    "Firefox tips and tricks.md",
+    "Pasted image 20230819113737.png",
+    "Pasted image 20230819113639.png",
+    "Pasted image 20230819112134.png",
+    "Pasted image 20230819111950.png",
+    "Wireshark/HTTPS Traffic.md",
+    "Wireshark/Analyzing Exploit PCAP's.md",
+    "Pasted image 20230819105301.png",
+    "Pasted image 20230819105158.png",
+    "Pasted image 20230819105118.png",
+    "Pasted image 20230819105048.png",
+    "Pasted image 20230819105020.png",
+    "Pasted image 20230819104933.png",
+    "Wireshark/HTTP Traffic.md",
+    "Pasted image 20230819103052.png",
+    "Wireshark/DNS Traffic.md",
+    "Wireshark/TCP Traffic.md",
+    "Wireshark/Filtering Packets.md",
+    "Wireshark/ICMP Traffic.md",
+    "Wireshark/ARP Traffic.md",
+    "Wireshark/Packet Dissection.md",
+    "Wireshark/Wireshark 101.md",
+    "Attacking Web applications/How Web Works.md",
+    "Attacking Web applications/Introduction.md",
+    "Untitled.md",
     "tips.md",
-    "Privilege Escalation/Linux/Information Gathering/Environment Enumeration.md",
+    "Wireshark/Untitled",
+    "Wireshark",
+    "Image Related.md",
+    "Hashes.md",
+    "Firefox tips and tricks.md",
+    "Webstack Identification.md",
+    "Shodan.md",
+    "Wpscan.md",
+    "Checklist.md",
+    "footprint.canvas",
+    "Privilege Escalation/Linux/tools/Privilege Escalation Tools.md",
+    "PayloadsAllTheThings/Methodology and Resources/Active Directory Attack.md",
+    "OWASP Top !0/2. Cryptographic Failures.md",
+    "PayloadsAllTheThings/CVE Exploits/README.md",
+    "Privilege Escalation/Untitled",
+    "Privilege Escalation/Linux/Permission-based Priv Esc",
+    "Privilege Escalation/Linux/Environment Based Priv Esc",
     "PayloadsAllTheThings/mkdocs.yml",
     "PayloadsAllTheThings/custom.css",
-    "PayloadsAllTheThings/_template_vuln/README.md",
     "PayloadsAllTheThings/_template_vuln",
-    "PayloadsAllTheThings/_LEARNING_AND_SOCIALS/YOUTUBE.md",
-    "PayloadsAllTheThings/_LEARNING_AND_SOCIALS/TWITTER.md",
-    "PayloadsAllTheThings/_LEARNING_AND_SOCIALS/BOOKS.md",
     "PayloadsAllTheThings/_LEARNING_AND_SOCIALS",
     "PayloadsAllTheThings/XXE Injection/Intruders/xml-attacks.txt",
-    "PayloadsAllTheThings/XXE Injection/Intruders/XXE_Fuzzing.txt",
-    "PayloadsAllTheThings/XXE Injection/Files/XXE PHP Wrapper.xml",
-    "PayloadsAllTheThings/XXE Injection/README.md",
-    "PayloadsAllTheThings/XSS Injection/Images/DwrkbH1VAAErOI2.jpg",
-    "PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_single_quote.png",
-    "PayloadsAllTheThings/XSS Injection/Files/xss_comment_exif_metadata_double_quote.png",
-    "PayloadsAllTheThings/XSS Injection/Files/payload_text_xss.png",
-    "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_metadata.png",
-    "PayloadsAllTheThings/XSS Injection/Files/payload_in_all_known_metadata.jpg",
-    "footprint.canvas",
     "Untitled.canvas"
   ]
 }
