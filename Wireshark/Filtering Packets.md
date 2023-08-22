@@ -28,4 +28,7 @@
 - `tcp.port eq <port> or <protocol name>` - as or has entered we can't use `=`
 - `udp.port eq <port> or <protocol name>`
 - `frame.number==<number>`
-- 
+
+>[!Note]
+>In a case where the attacker uses commands we use the `follow > TCP Stream` option to get a detailed view of the commands used by the attacker
+

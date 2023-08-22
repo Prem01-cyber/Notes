@@ -20,7 +20,7 @@ We can take advantage of wireshark and digest all this data to help and organise
 
 ![[Pasted image 20230819103039.png]]
 
-The next feature in Wireshark we will look at is the Export HTTP Object. This feature will allow us to organize all requested URIs in the capture. To use Export HTTP Object navigate to file > Export Objects > HTTP.
+The next feature in Wireshark we will look at is the Export HTTP Object. This feature will allow us to organize all requested URIs in the capture. To use Export HTTP Object navigate to `file > Export Objects > HTTP`.
 
 ![[Pasted image 20230819103052.png]]
 

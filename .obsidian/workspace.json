@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Building Attacks/Attack Tuning.md",
+                "file": "Wireshark/Filtering Packets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Building Attacks/Attack Tuning.md",
+                "file": "Wireshark/Filtering Packets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Building Attacks/Attack Tuning.md",
+                "file": "Wireshark/Filtering Packets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Building Attacks/Attack Tuning.md"
+                "file": "Wireshark/Filtering Packets.md"
               }
             }
           },
@@ -156,6 +156,13 @@
   },
   "active": "62c98ea6df916eab",
   "lastOpenFiles": [
+    "Wireshark/ARP Traffic.md",
+    "Wireshark/Packet Dissection.md",
+    "Wireshark/Filtering Packets.md",
+    "Wireshark/Wireshark 101.md",
+    "Wireshark/HTTP Traffic.md",
+    "Wireshark/Analyzing Exploit PCAP's.md",
+    "SQL Injection - manual and automated/SQL Injection - Automated/Building Attacks/Attack Tuning.md",
     "SQL Injection - manual and automated/SQL Injection - Automated/Building Attacks/Handling SQLMap Errors.md",
     "SQL Injection - manual and automated/SQL Injection - Automated/Building Attacks/Running SQLMap on an HTTP Request.md",
     "SQL Injection - manual and automated/SQL Injection - Automated/Advanced SQLMap Usage/Bypassing Web Application Protection.md",
@@ -163,7 +170,6 @@
     "PayloadsAllTheThings/Methodology and Resources/Active Directory Attack.md",
     "Hash Crackers/John the ripper/Introduction.md",
     "Hash Crackers/John the ripper/Basic Hash Cracking.md",
-    "Wireshark/Analyzing Exploit PCAP's.md",
     "Pasted image 20230819113737.png",
     "Pasted image 20230819113639.png",
     "Pasted image 20230819112134.png",
@@ -175,14 +181,9 @@
     "Pasted image 20230819105048.png",
     "Pasted image 20230819105020.png",
     "Pasted image 20230819104933.png",
-    "Wireshark/HTTP Traffic.md",
     "Wireshark/DNS Traffic.md",
     "Wireshark/TCP Traffic.md",
-    "Wireshark/Filtering Packets.md",
     "Wireshark/ICMP Traffic.md",
-    "Wireshark/ARP Traffic.md",
-    "Wireshark/Packet Dissection.md",
-    "Wireshark/Wireshark 101.md",
     "Attacking Web applications/How Web Works.md",
     "Attacking Web applications/Introduction.md",
     "Untitled.md",
@@ -193,7 +194,6 @@
     "Hashes.md",
     "Firefox tips and tricks.md",
     "Webstack Identification.md",
-    "Shodan.md",
     "footprint.canvas",
     "Privilege Escalation/Untitled",
     "Privilege Escalation/Linux/Permission-based Priv Esc",
