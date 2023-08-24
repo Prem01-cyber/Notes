@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd101666e4378955",
+        "id": "023700c366d7c0f9",
         "type": "tabs",
         "children": [
           {
-            "id": "c94086b2b8bd9800",
+            "id": "8f1df0280ce068f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Splunk/SIEM/Analysing logs and alerts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 409.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c266c518ec00c88",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Splunk/SIEM/Analysing logs and alerts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Splunk/SIEM/Analysing logs and alerts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Splunk/SIEM/Analysing logs and alerts.md"
+              }
             }
           },
           {
@@ -147,22 +156,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c94086b2b8bd9800",
+  "active": "8f1df0280ce068f2",
   "lastOpenFiles": [
+    "Pasted image 20230824224503.png",
+    "Splunk/SIEM/Log Ingestion.md",
+    "Splunk/SIEM/Analysing logs and alerts.md",
+    "Pasted image 20230824224113.png",
+    "Pasted image 20230824224108.png",
+    "Pasted image 20230824223940.png",
+    "Splunk/SIEM/Log Sources.md",
+    "30beed26fc514cb7f52773b88a4510b9.gif",
+    "Splunk/SIEM/Introduction.md",
+    "Splunk/SIEM",
+    "Pasted image 20230824223304.png",
+    "Pasted image 20230824222752.png",
+    "SQL Injection - manual and automated/SQL Injection - Automated/Getting Started/SQLMap Output Description.md",
+    "Splunk",
+    "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md",
+    "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Introduction.md",
     "Pasted image 20230823192055.png",
     "appendix/Maltego.md",
     "Pasted image 20230823191959.png",
     "Pasted image 20230823191947.png",
     "Pasted image 20230823191856.png",
-    "Pasted image 20230823191825.png",
-    "Pasted image 20230823191817.png",
     "appendix/Recon-ng.md",
     "Recon/Passive Recon.md",
     "Recon/Active Recon.md",
     "Recon/Red Team Recon.md",
-    "Pasted image 20230823173654.png",
     "Recon",
-    "Screenshots/7.gif",
     "appendix/Image Related.md",
     "appendix/tips.md",
     "appendix/Hashes.md",
@@ -176,17 +197,8 @@
     "Image Related.md",
     "PayloadsAllTheThings/Insecure Direct Object References/README.md",
     "Untitled.md",
-    "Screenshots/829e340231cd8aa9f5ed2fa5c464ea80.svg",
-    "Screenshots/Pasted image 20230819113737.png",
     "Insecure Direct Object Reference - IDOR/IDOR and Logic Errors.md",
     "Insecure Direct Object Reference - IDOR/cheatsheet-134.md",
-    "OWASP Top !0/1. Broken Access Control.md",
-    "OWASP Top !0/3. Injection.md",
-    "OWASP Top !0/4. Insecure Design.md",
-    "Wireshark/Filtering Packets.md",
-    "Wireshark/ARP Traffic.md",
-    "Wireshark/Packet Dissection.md",
-    "Wireshark/Wireshark 101.md",
     "Wireshark/Untitled",
     "Wireshark",
     "footprint.canvas",
@@ -194,8 +206,6 @@
     "Privilege Escalation/Linux/Permission-based Priv Esc",
     "Privilege Escalation/Linux/Environment Based Priv Esc",
     "PayloadsAllTheThings/mkdocs.yml",
-    "PayloadsAllTheThings/custom.css",
-    "PayloadsAllTheThings/_template_vuln",
     "Untitled.canvas"
   ]
 }
