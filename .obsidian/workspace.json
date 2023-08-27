@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Splunk/SIEM/Analysing logs and alerts.md",
+                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Database Enumeration/Advance Database Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IDOR",
+                "query": "sqlm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "right": {
     "id": "5c266c518ec00c88",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Splunk/SIEM/Analysing logs and alerts.md",
+                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Database Enumeration/Advance Database Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Splunk/SIEM/Analysing logs and alerts.md",
+                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Database Enumeration/Advance Database Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Splunk/SIEM/Analysing logs and alerts.md"
+                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Database Enumeration/Advance Database Enumeration.md"
               }
             }
           },
@@ -156,11 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f1df0280ce068f2",
+  "active": "1d902b1d775180ae",
   "lastOpenFiles": [
+    "Splunk/SIEM/Analysing logs and alerts.md",
     "Pasted image 20230824224503.png",
     "Splunk/SIEM/Log Ingestion.md",
-    "Splunk/SIEM/Analysing logs and alerts.md",
     "Pasted image 20230824224113.png",
     "Pasted image 20230824224108.png",
     "Pasted image 20230824223940.png",
@@ -178,7 +177,6 @@
     "appendix/Maltego.md",
     "Pasted image 20230823191959.png",
     "Pasted image 20230823191947.png",
-    "Pasted image 20230823191856.png",
     "appendix/Recon-ng.md",
     "Recon/Passive Recon.md",
     "Recon/Active Recon.md",
