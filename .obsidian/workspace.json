@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Database Enumeration/Advance Database Enumeration.md",
+                "file": "Active Directory/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sqlm",
+                "query": "tag:#syntax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Database Enumeration/Advance Database Enumeration.md",
+                "file": "Active Directory/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Database Enumeration/Advance Database Enumeration.md",
+                "file": "Active Directory/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Injection - manual and automated/SQL Injection - Automated/Database Enumeration/Advance Database Enumeration.md"
+                "file": "Active Directory/Introduction.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,28 +154,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d902b1d775180ae",
+  "active": "8f1df0280ce068f2",
   "lastOpenFiles": [
+    "appendix/Shodan.md",
+    "appendix/Wpscan.md",
+    "appendix/Checklist.md",
+    "appendix/footprint.canvas",
+    "Javascript DEOBFUSCATION/tools/cheatsheet-41.md",
+    "Footprinting/Host Based Emuneration/SNMP.md",
+    "Footprinting/Host Based Emuneration/IMAP.md",
+    "SQL Injection - manual and automated/SQL Injection - Automated/Database Enumeration/Advance Database Enumeration.md",
+    "Screenshots/30beed26fc514cb7f52773b88a4510b9.gif",
+    "Screenshots/Pasted image 20230824224503.png",
+    "Screenshots/Pasted image 20230824224113.png",
+    "Screenshots/Pasted image 20230824224108.png",
+    "Screenshots/Pasted image 20230824223940.png",
+    "Screenshots/Pasted image 20230824223304.png",
+    "Screenshots/Pasted image 20230824222752.png",
+    "Screenshots/Pasted image 20230823192055.png",
+    "Screenshots/Pasted image 20230823191959.png",
+    "Screenshots/Pasted image 20230823191947.png",
     "Splunk/SIEM/Analysing logs and alerts.md",
-    "Pasted image 20230824224503.png",
     "Splunk/SIEM/Log Ingestion.md",
-    "Pasted image 20230824224113.png",
-    "Pasted image 20230824224108.png",
-    "Pasted image 20230824223940.png",
     "Splunk/SIEM/Log Sources.md",
-    "30beed26fc514cb7f52773b88a4510b9.gif",
     "Splunk/SIEM/Introduction.md",
     "Splunk/SIEM",
-    "Pasted image 20230824223304.png",
-    "Pasted image 20230824222752.png",
     "SQL Injection - manual and automated/SQL Injection - Automated/Getting Started/SQLMap Output Description.md",
     "Splunk",
     "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Subverting Query Logic.md",
     "SQL Injection - manual and automated/SQL Injection - Intro and Manual/Introduction.md",
-    "Pasted image 20230823192055.png",
     "appendix/Maltego.md",
-    "Pasted image 20230823191959.png",
-    "Pasted image 20230823191947.png",
     "appendix/Recon-ng.md",
     "Recon/Passive Recon.md",
     "Recon/Active Recon.md",
@@ -187,16 +194,8 @@
     "appendix/Hashes.md",
     "appendix/Firefox tips and tricks.md",
     "appendix/Webstack Identification.md",
-    "appendix/Shodan.md",
-    "appendix/Wpscan.md",
-    "appendix/Checklist.md",
-    "appendix/footprint.canvas",
     "appendix",
     "Image Related.md",
-    "PayloadsAllTheThings/Insecure Direct Object References/README.md",
-    "Untitled.md",
-    "Insecure Direct Object Reference - IDOR/IDOR and Logic Errors.md",
-    "Insecure Direct Object Reference - IDOR/cheatsheet-134.md",
     "Wireshark/Untitled",
     "Wireshark",
     "footprint.canvas",

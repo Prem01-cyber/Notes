@@ -20,7 +20,7 @@
 - SNMP sends **traps**[^1] over **UDP 162**.
 - To exachange data from SNMP client and server each object must have **unique addresses** on both sides.
 
-###### MIB (Management Information Base)
+###### `MIB (Management Information Base)`
 
 - To ensure that SNMP access works acroos manufacturers with different client-server combinations MIB wascreated. It is an Independent format used to store device information.
 - It is a **Text File** with **Abstract Syntax Notation One (ASN.1)** ASCII text format in which all queryable SNMP objects (routers IoT ...e.t.c) of a device are listed in a standardized **tree hierearchy**.
