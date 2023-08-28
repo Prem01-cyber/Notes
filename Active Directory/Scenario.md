@@ -16,4 +16,7 @@ Out of Scope:
         Any type of attacks against real world inlanefreight.com website outside of passsice enumeration shown in this module
 
 Authorised Methods
+        External Information Gathering (Passive Checks)
+        Internal Testing
+        Password Testing
 
