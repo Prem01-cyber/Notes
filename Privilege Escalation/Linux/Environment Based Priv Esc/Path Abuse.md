@@ -1,0 +1,4 @@
+- [PATH](http://www.linfo.org/path_env_var.html) is an environment variable that specifies the set of directories where an executable can be located.
+- For example, a user can type `cat /tmp/test.txt` instead of specifying the absolute path `/bin/cat /tmp/test.txt`.
+- PATH variables can be listed using `env | grep PATH` or `echo $PATH`
+- 
